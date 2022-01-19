@@ -2,4 +2,4 @@
 
 https://dstorr.github.io/aquafresh.github.io/
 
-![](images/Aqua Fresh.png)
+![](images/Aqua%20Fresh.png)
