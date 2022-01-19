@@ -2,7 +2,7 @@
 
 https://dstorr.github.io/aquafresh.github.io/
 
-<a href="default.asp">
+<a href="https://dstorr.github.io/aquafresh.github.io/">
   <img src="images/Aqua%20Fresh.png" alt="HTML tutorial">
 </a>
 
